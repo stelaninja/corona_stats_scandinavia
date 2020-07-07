@@ -1,0 +1,103 @@
+DeathCause; DeadPer100k; Total; Age0-85+; BothGender; 2018
+Diagnos;2018
+A00­A09 Infektionssjukdomar utgående från mag­tarmkanalen;2,56
+A15­A19 Tuberkulos;0,15
+A20­A28 Vissa djurburna bakteriesjukdomar;­­
+A80­A89 Virussjukdomar i centrala nervsystemet;0,35
+A90­A99 Febersjukdomar orsakade av virus överförda av leddjur och virusorsakade hemorragiska febrar;­­
+B00­B09 Virussjukdomar med hudutslag och slemhinneutslag;0,23
+B15­B19 Virushepatit;0,58
+B25­B34 Andra virussjukdomar;0,56
+B35­B49 Svampsjukdomar;0,27
+B65­B83 Masksjukdomar;0,02
+B90­B94 Sena effekter av infektionssjukdomar och parasitsjukdomar;0,25
+B95­B97 Bakterier, virus och andra infektiösa organismer;­­
+D10­D36 Benigna tumörer;0,72
+D50­D53 Nutritionsanemier;0,26
+D65­D69 Koagulationsrubbningar, purpura (punktformiga blödningar i huden mm) och andra blödningstillstånd;0,29
+E00­E07 Sjukdomar i sköldkörteln;0,53
+E10­E14 Diabetes;21,19
+E40­E46 Näringsbrist;1,20
+E65­E68 Fetma och andra övernäringstillstånd;0,89
+E70­E90 Ämnesomsättningssjukdomar;3,86
+F00­F09 Organiska, inklusive symtomatiska, psykiska störningar;62,39
+F10­F19 Psykiska störningar och beteendestörningar orsakade av psykoaktiva substanser;2,94
+F20­F29 Schizofreni, schizotypa störningar och vanföreställningssyndrom;0,64
+F30­F39 Förstämningssyndrom;0,60
+F40­F48 Neurotiska, stressrelaterade och somatoforma syndrom;0,09
+F60­F69 Personlighetsstörningar och beteendestörningar hos vuxna;­­
+F90­F98 Beteendestörningar och emotionella störningar med debut vanligen under barndom och ungdomstid;­­
+G00­G09 Inflammatoriska sjukdomar i centrala nervsystemet;0,54
+G50­G59 Sjukdomar i nerver, nervrötter och nervplexus;­­
+G70­G73 Neuromuskulära transmissionsrubbningar (rubbningar i överföring av impulser mellan nerver och muskler) och sjukdomar i muskler;1,00
+I00­I02 Akut reumatisk feber;­­
+I05­I09 Kroniska reumatiska hjärtsjukdomar;1,25
+I10­I15 Hypertonisjukdomar (högt blodtryck och därmed sammanhängande sjukdomar);24,96
+I20­I25 Ischemiska hjärtsjukdomar (sjukdomar orsakade av otillräcklig blodtillförsel till hjärtmuskeln);105,93
+I26­I28 Sjukdomstillstånd inom lungcirkulationen;5,65
+I60­I69 Sjukdomar i hjärnans kärl;55,76
+I70­I79 Sjukdomar i artärer, arterioler (småartärer) och kapillärer;16,48
+J00­J06 Akuta infektioner i övre luftvägarna;0,22
+J09­J18 Influensa och lunginflammation;25,34
+J40­J47 Kroniska sjukdomar i nedre luftvägarna;32,34
+J60­J70 Lungsjukdomar av yttre orsaker;1,54
+K00­K14 Sjukdomar i munhåla, spottkörtlar och käkar;0,07
+K20­K31 Matstrupens, magsäckens och tolvfingertarmens sjukdomar;3,71
+K35­K38 Sjukdomar i blindtarmen;0,17
+K40­K46 Bråck;0,97
+K50­K52 Icke infektiös inflammation i tunntarmen och tjocktarmen;0,52
+K65­K67 Sjukdomar i bukhinnan;0,41
+K70­K77 Sjukdomar i levern;8,35
+K80­K87 Sjukdomar i gallblåsan, gallvägarna och bukspottkörteln;3,88
+K90­K93 Andra sjukdomar i matsmältningsorganen;3,52
+L00­L08 Infektioner i hud och underhud;0,39
+L20­L30 Dermatit och eksem;0,02
+L50­L54 Urtikaria (nässelfeber) och erytematösa tillstånd (tillstånd med hudrodnad);0,02
+L60­L75 Sjukdomar i hår, hårfolliklar, naglar, talgkörtlar och svettkörtlar;­­
+L80­L99 Andra sjukdomar i hud och underhud;1,49
+M15­M19 Artros;0,14
+M60­M63 Muskelsjukdomar;0,27
+M65­M68 Sjukdomar i ledhinnor och senor;­­
+M80­M85 Rubbningar i bentäthet och benstruktur;0,61
+M91­M94 Sjukdomar i broskvävnad;­­
+N17­N19 Njursvikt;8,85
+N20­N23 Sten i urinvägarna;0,33
+N25­N29 Andra sjukdomar i njure och urinledare;0,19
+N40­N51 Sjukdomar i de manliga könsorganen;0,48
+N80­N98 Icke inflammatoriska sjukdomar i de kvinnliga könsorganen;0,10
+N99­N99 Andra sjukliga tillstånd i urin­ och könsorganen;­­
+R10­R19 Symtom och sjukdomstecken från matsmältningsorganen och buken;0,12
+R20­R23 Symtom och sjukdomstecken från huden och underhuden;­­
+R25­R29 Symtom och sjukdomstecken från nervsystemet och muskuloskeletala systemet;­­
+R30­R39 Symtom och sjukdomstecken från urinorganen;0,01
+V01­V09 Fotgängare skadad i transportolycka;0,48
+V10­V19 Cyklist (förare eller passagerare) skadad i transportolycka;0,29
+V20­V29 Motorcyklist (förare eller passagerare) skadad i transportolycka;0,53
+V30­V39 Förare av eller passagerare i trehjuligt motorfordon skadad i transportolycka;­­
+V40­V49 Förare av eller passagerare i personbil skadad i transportolycka;1,79
+V50­V59 Förare av eller passagerare i lätt lastbil skadad i transportolycka;0,09
+V60­V69 Förare av eller passagerare i tung lastbil skadad i transportolycka;0,04
+V70­V79 Förare av eller passagerare i buss skadad i transportolycka;­­
+V80­V89 Andra transportolyckor på land;0,34
+V90­V94 Transportolyckor på vatten;0,09
+V95­V97 Transportolyckor i luften och rymden;0,02
+V98­V99 Andra och icke specificerade transportolyckor;­­
+W00­W19 Fallolyckor;10,29
+W20­W49 Exponering för icke levande mekaniska krafter;0,44
+W50­W64 Exponering för levande mekaniska krafter;0,03
+W65­W74 Drunkning och drunkningstillbud genom olyckshändelse;1,12
+W75­W84 Annan kvävning och annat kvävningstillbud genom olyckshändelse;1,13
+W85­W99 Exponering för elektrisk ström, strålning, extrem lufttemperatur och extremt lufttryck i omgivningen;0,05
+X00­X09 Exponering för rök och öppen eld;0,48
+X10­X19 Kontakt med heta föremål och heta ämnen;0,02
+X20­X29 Kontakt med giftiga djur och växter;0,09
+X30­X39 Exponering för naturkrafter;0,69
+X40­X49 Förgiftningsolyckor och exponering för skadliga ämnen genom olyckshändelse;5,12
+X50­X57 Överansträngning och umbäranden;­­
+X60­X84 Avsiktligt självdestruktiv handling (självmord);12,46
+X85­Y09 Övergrepp av annan person;1,00
+Y40­Y59 Ogynnsam effekt av droger, läkemedel och biologiska substanser i terapeutiskt bruk;0,04
+Y60­Y69 Missöden som inträffat med patienter under kirurgisk och medicinsk vård;0,13
+Y70­Y82 Missöden orsakade av medicinska instrument i diagnostiskt och terapeutiskt bruk;­­
+Y83­Y84 Kirurgiska och andra medicinska åtgärder som orsak till onormal reaktion eller sen komplikation hos patient utan anknytning till missöde vid operations­ eller behandlingstillfället;0,71
+Socialstyrelsens statistikdatabas 2020-04-03
